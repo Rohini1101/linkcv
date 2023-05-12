@@ -1,0 +1,117 @@
+.head1 {
+    color:  white;
+    
+    height: 100%;
+    background-color: #005699;;
+    text-align: left;
+    padding-left: 8px;
+}
+
+.headbox {
+    background-color: whitesmoke;
+    text-align: center;
+    width: 98%;
+    height: 13%;
+}
+
+.box1 {
+    
+    text-align: left;
+    width: 98%;
+    height: 16%;
+
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+.comment {
+    margin-bottom: 0px;
+    color: black;
+}
+
+
+.head4 {
+
+    text-align: left;
+    width: 98%;
+    height: 22%;
+
+}
+
+.head5 {
+
+    text-align: left;
+    width: 98%;
+    height: 16%;
+
+
+}
+
+.box6 {
+
+
+    text-align: left;
+    width: 98%;
+    height: 12%;
+
+
+}
+
+.head6 {
+
+    text-align: left;
+    width: 98%;
+    height: 22%;
+
+}
+
+#p3 {
+    padding-top: 20px;
+    color: #616161;
+
+}
+
+#h3 {
+    padding-top: 10PX;
+    text-decoration: underline #616161 1px;
+    text-underline-position: 2px;
+    text-underline-offset: 20px;
+}
+
+#id5 {
+     color: #005699;
+    padding-top: 10PX;
+    font-weight: bold;
+
+
+}
+
+#h2 {
+    font-weight: bold;
+    padding-top: 10PX;
+    text-decoration: underline #616161 1px;
+    text-underline-position: 2px;
+    text-underline-offset: 10px;
+}
+
+#h4 {
+    font-weight: bold;
+    padding-top: 10PX;
+    text-decoration: underline #616161 1px;
+    text-underline-position: 2px;
+    text-underline-offset: 10px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+
+
+form {
+    margin: 20px;
+}
+
+.image {
+    width: 50%;
+    border-radius: 100px;
+    margin: 20px;
+}
