@@ -5,13 +5,14 @@
     background-color: #005699;;
     text-align: left;
     padding-left: 8px;
+    padding-right: 2px;
 }
 
 .headbox {
     background-color: whitesmoke;
     text-align: center;
     width: 98%;
-    height: 13%;
+    border: 1px solid whitesmoke;
 }
 
 .box1 {
@@ -67,7 +68,7 @@
 }
 
 #p3 {
-    padding-top: 20px;
+    padding-top: 20px ;
     color: #616161;
 
 }
@@ -75,8 +76,9 @@
 #h3 {
     padding-top: 10PX;
     text-decoration: underline #616161 1px;
-    text-underline-position: 2px;
-    text-underline-offset: 20px;
+    text-underline-position: 0px;
+    text-underline-offset: 10px;
+    margin-bottom: 0px;
 }
 
 #id5 {
@@ -85,6 +87,12 @@
     font-weight: bold;
 
 
+}
+.three{
+    height: 120%;
+}
+.nine{
+    height: 120%;
 }
 
 #h2 {
@@ -108,7 +116,9 @@
 
 
 form {
-    margin: 20px;
+    margin:20px 0px 40px 0px;
+     
+    width: 100%;
 }
 
 .image {
